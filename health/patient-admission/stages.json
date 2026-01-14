@@ -1,0 +1,23 @@
+[
+  {
+    "stageName": "Doctor Review",
+    "description": "Doctor reviews patient admission request",
+    "sequenceOrder": 1,
+    "assignmentType": "User",
+    "assignmentKey": "338e9b83-b214-453c-af4f-a468ffce6219"
+  },
+  {
+    "stageName": "Nurse Approval",
+    "description": "Nurse checks patient records and approves",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "nurse"
+  },
+  {
+    "stageName": "Administration Approval",
+    "description": "Admin approves final admission",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "admin"
+  }
+]
