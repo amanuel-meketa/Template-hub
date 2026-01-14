@@ -1,0 +1,5 @@
+{
+  "name": "Loan Application Approval",
+  "description": "Workflow for approving a bank loan application",
+  "isActive": true
+}
