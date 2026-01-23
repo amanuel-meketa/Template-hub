@@ -1,5 +1,5 @@
 [ { "Key": "health/patient-admission", "Name": "Patient Admission Approval", "Category": "Health" },
   { "Key": "bank/loan-application", "Name": "Loan Application Approval", "Category": "Bank" }, 
   { "Key": "university/course-enrollment", "Name": "Course Enrollment Approval", "Category": "University" },
-  { "Key": "university/procurement-purchase-request-approval", "Name": "Procurement Request Approval", "Category": "University" }
+  { "Key": "Universities/procurement-purchase-request-approval", "Name": "Procurement Request Approval", "Category": "University" }
 ]
