@@ -1,0 +1,51 @@
+[
+  {
+    "stageName": "Purchase Request Submission",
+    "description": "Department submits procurement request",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "department"
+  },
+  {
+    "stageName": "Department Head Approval",
+    "description": "Department head approves request",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "department-head"
+  },
+  {
+    "stageName": "Budget Check",
+    "description": "Finance verifies budget availability",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "finance"
+  },
+  {
+    "stageName": "Procurement Committee Review",
+    "description": "Procurement committee evaluates supplier selection",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "procurement-office"
+  },
+  {
+    "stageName": "Vice Chancellor Approval",
+    "description": "Final university approval for purchase",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "vice-chancellor"
+  },
+  {
+    "stageName": "Purchase Order Issuance",
+    "description": "Issue PO to vendor",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "procurement-office"
+  },
+  {
+    "stageName": "Goods / Services Receipt",
+    "description": "Receive items and confirm in system",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "department"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "stageName": "Permit Application Review",
+    "description": "Construction permit application is reviewed for completeness",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "permit-office"
+  },
+  {
+    "stageName": "Architectural Design Review",
+    "description": "Municipality reviews architectural drawings and plans",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "architecture-review"
+  },
+  {
+    "stageName": "Structural Engineering Approval",
+    "description": "Engineering team approves structural safety and standards",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "engineering-dept"
+  },
+  {
+    "stageName": "Environmental & Safety Clearance",
+    "description": "Environmental and safety compliance is verified",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "environmental-office"
+  },
+  {
+    "stageName": "Municipality Approval",
+    "description": "Municipality grants final construction permit",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "municipality-office"
+  }
+]

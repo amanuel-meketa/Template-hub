@@ -1,0 +1,51 @@
+[
+  {
+    "stageName": "Proposal Submission",
+    "description": "Researcher submits grant proposal",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "research-office"
+  },
+  {
+    "stageName": "Department Review",
+    "description": "Department evaluates proposal feasibility",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "department-head"
+  },
+  {
+    "stageName": "Ethics Committee Approval",
+    "description": "Ethics committee reviews research",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "ethics-committee"
+  },
+  {
+    "stageName": "Faculty Board Approval",
+    "description": "Faculty board approves project",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "faculty-board"
+  },
+  {
+    "stageName": "Financial Office Approval",
+    "description": "Finance approves grant allocation",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "finance"
+  },
+  {
+    "stageName": "Vice Chancellor Approval",
+    "description": "Vice Chancellor signs grant approval",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "vice-chancellor"
+  },
+  {
+    "stageName": "Fund Disbursement",
+    "description": "Grant funds released to researcher",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "finance"
+  }
+]

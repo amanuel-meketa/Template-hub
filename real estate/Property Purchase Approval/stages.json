@@ -1,0 +1,30 @@
+[
+  {
+    "stageName": "Initial Application Review",
+    "description": "Sales officer reviews property purchase application",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "sales-officer"
+  },
+  {
+    "stageName": "Property Valuation",
+    "description": "Valuation team assesses the property value",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "valuation-team"
+  },
+  {
+    "stageName": "Legal Verification",
+    "description": "Legal department verifies ownership and documents",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "legal-dept"
+  },
+  {
+    "stageName": "Management Approval",
+    "description": "Senior management approves the purchase",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "management"
+  }
+]

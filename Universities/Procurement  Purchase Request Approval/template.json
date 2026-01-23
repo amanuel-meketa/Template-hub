@@ -1,0 +1,5 @@
+{
+  "name": "Procurement Request Approval",
+  "description": "Approval workflow for university purchase requests",
+  "isActive": true
+}

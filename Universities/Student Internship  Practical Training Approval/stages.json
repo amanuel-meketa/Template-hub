@@ -1,0 +1,51 @@
+[
+  {
+    "stageName": "Application Submission",
+    "description": "Student submits internship application",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "career-office"
+  },
+  {
+    "stageName": "Department Review",
+    "description": "Department approves internship relevance",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "department-head"
+  },
+  {
+    "stageName": "Supervisor Assignment",
+    "description": "Assign faculty supervisor",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "faculty-committee"
+  },
+  {
+    "stageName": "Ethics / Compliance Review",
+    "description": "Ensure internship meets university policies",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "compliance-office"
+  },
+  {
+    "stageName": "Faculty Approval",
+    "description": "Faculty board approves internship",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "faculty-board"
+  },
+  {
+    "stageName": "Vice Chancellor Approval",
+    "description": "Final approval for student placement",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "vice-chancellor"
+  },
+  {
+    "stageName": "Internship Execution",
+    "description": "Student begins internship / practical training",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "career-office"
+  }
+]

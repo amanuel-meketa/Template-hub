@@ -1,0 +1,5 @@
+{
+  "name": "Internal Fund Transfer Approval",
+  "description": "Approval workflow for large inter-branch or internal transfers",
+  "isActive": true
+}

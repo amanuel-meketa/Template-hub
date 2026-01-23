@@ -1,0 +1,51 @@
+[
+  {
+    "stageName": "Leave Request Submission",
+    "description": "Staff submits leave request",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "hr"
+  },
+  {
+    "stageName": "Department Review",
+    "description": "Department head reviews leave plan",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "department-head"
+  },
+  {
+    "stageName": "HR Review",
+    "description": "HR confirms leave balance and policy compliance",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "hr"
+  },
+  {
+    "stageName": "Vice Dean / Dean Approval",
+    "description": "Department leadership approval",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "dean"
+  },
+  {
+    "stageName": "Vice Chancellor Approval",
+    "description": "Final approval for extended leave",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "vice-chancellor"
+  },
+  {
+    "stageName": "HR Notification",
+    "description": "Notify payroll and relevant units",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "hr"
+  },
+  {
+    "stageName": "Leave Execution",
+    "description": "Staff leave recorded and executed",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "hr"
+  }
+]

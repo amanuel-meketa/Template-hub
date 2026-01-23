@@ -1,29 +1,50 @@
 [
   {
-    "stageName": "Initial Review",
-    "description": "Bank officer reviews the loan application",
+    "stageName": "Application Intake",
+    "description": "Branch officer receives and validates loan documents",
     "sequenceOrder": 1,
-    "assignmentType": "User",
-    "assignmentKey": "338e9b83-b214-453c-af4f-a468ffce6219"
+    "assignmentType": "Role",
+    "assignmentKey": "branch-officer"
   },
   {
-    "stageName": "Credit Check",
-    "description": "Credit department verifies applicant credit history",
+    "stageName": "Credit Analysis",
+    "description": "Credit team evaluates repayment capacity",
     "sequenceOrder": 2,
     "assignmentType": "Role",
-    "assignmentKey": "credit-dept"
+    "assignmentKey": "credit-analyst"
   },
   {
-    "stageName": "Manager Approval",
-    "description": "Bank manager approves the loan",
+    "stageName": "Collateral Verification",
+    "description": "Collateral and guarantees are verified",
     "sequenceOrder": 3,
     "assignmentType": "Role",
-    "assignmentKey": "manager"
+    "assignmentKey": "collateral-team"
   },
   {
-    "stageName": "Final Disbursement",
-    "description": "Finance department releases the loan",
+    "stageName": "Risk Review",
+    "description": "Risk management reviews loan exposure",
     "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "risk-management"
+  },
+  {
+    "stageName": "Branch Manager Approval",
+    "description": "Branch manager approves or rejects the loan",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "branch-manager"
+  },
+  {
+    "stageName": "Head Office Approval",
+    "description": "Head office credit committee approval",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "credit-committee"
+  },
+  {
+    "stageName": "Disbursement",
+    "description": "Finance department releases the loan",
+    "sequenceOrder": 7,
     "assignmentType": "Role",
     "assignmentKey": "finance"
   }

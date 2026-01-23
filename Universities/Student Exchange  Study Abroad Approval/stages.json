@@ -1,0 +1,86 @@
+[
+  {
+    "stageName": "Application Submission",
+    "description": "Student submits exchange program application",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "international-office"
+  },
+  {
+    "stageName": "Eligibility Check",
+    "description": "Check student's GPA and program eligibility",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "department-head"
+  },
+  {
+    "stageName": "Application Completeness Review",
+    "description": "Ensure all documents are submitted",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "international-office"
+  },
+  {
+    "stageName": "Department Recommendation",
+    "description": "Department recommends approval",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "department-head"
+  },
+  {
+    "stageName": "Faculty Committee Review",
+    "description": "Faculty evaluates request and approves",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "faculty-board"
+  },
+  {
+    "stageName": "Financial Clearance",
+    "description": "Finance confirms tuition/travel coverage",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "finance"
+  },
+  {
+    "stageName": "Vice Chancellor Approval",
+    "description": "Final approval from university leadership",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "vice-chancellor"
+  },
+  {
+    "stageName": "Visa Processing",
+    "description": "International office assists with visa application",
+    "sequenceOrder": 8,
+    "assignmentType": "Role",
+    "assignmentKey": "international-office"
+  },
+  {
+    "stageName": "Travel Arrangement",
+    "description": "Arrange flights and accommodation",
+    "sequenceOrder": 9,
+    "assignmentType": "Role",
+    "assignmentKey": "admin-office"
+  },
+  {
+    "stageName": "Pre-departure Orientation",
+    "description": "Student attends briefing session",
+    "sequenceOrder": 10,
+    "assignmentType": "Role",
+    "assignmentKey": "international-office"
+  },
+  {
+    "stageName": "Departure Approval",
+    "description": "Confirm final departure",
+    "sequenceOrder": 11,
+    "assignmentType": "Role",
+    "assignmentKey": "international-office"
+  },
+  {
+    "stageName": "Program Execution",
+    "description": "Student participates in exchange program",
+    "sequenceOrder": 12,
+    "assignmentType": "Role",
+    "assignmentKey": "international-office"
+  }
+]

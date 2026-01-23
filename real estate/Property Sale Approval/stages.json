@@ -1,0 +1,51 @@
+[
+  {
+    "stageName": "Initial Sale Request",
+    "description": "Sales officer submits and verifies the initial sale request",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "sales-officer"
+  },
+  {
+    "stageName": "Sales Agreement Review",
+    "description": "Sales team reviews and validates the sale agreement",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "sales-team"
+  },
+  {
+    "stageName": "Property Valuation Confirmation",
+    "description": "Valuation team confirms the property market value",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "valuation-team"
+  },
+  {
+    "stageName": "Legal Clearance",
+    "description": "Legal department reviews ownership, contracts, and compliance",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "legal-dept"
+  },
+  {
+    "stageName": "Management Approval",
+    "description": "Senior management approves the property sale",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "management"
+  },
+  {
+    "stageName": "Finance Confirmation",
+    "description": "Finance department confirms payment, taxes, and fees",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "finance"
+  },
+  {
+    "stageName": "Final Sale Completion",
+    "description": "Sales administration completes ownership transfer and closure",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "sales-admin"
+  }
+]

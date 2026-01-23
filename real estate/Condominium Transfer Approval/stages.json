@@ -1,0 +1,37 @@
+[
+  {
+    "stageName": "Transfer Request Submission",
+    "description": "Owner submits condominium transfer request",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "condominium-office"
+  },
+  {
+    "stageName": "Outstanding Payment Verification",
+    "description": "Housing authority checks unpaid balances or penalties",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "housing-finance"
+  },
+  {
+    "stageName": "Tax Clearance",
+    "description": "Tax authority verifies applicable transfer taxes",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "tax-authority"
+  },
+  {
+    "stageName": "Legal Review",
+    "description": "Legal office reviews ownership transfer documents",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "legal-dept"
+  },
+  {
+    "stageName": "Final Registration",
+    "description": "Housing authority registers new condominium owner",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "housing-registration"
+  }
+]
