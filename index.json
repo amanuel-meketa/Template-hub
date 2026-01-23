@@ -1,7 +1,6 @@
 [ { "Key": "health/patient-admission", "Name": "Patient Admission Approval", "Category": "Health" },
   { "Key": "bank/loan-application", "Name": "Loan Application Approval", "Category": "Bank" }, 
   { "Key": "university/course-enrollment", "Name": "Course Enrollment Approval", "Category": "University" },
-   { "Key": "university/Procurement Request Approval", "Name": "Procurement Request Approval", "Category": "University" },
-    { "Key": "university/course-enrollment", "Name": "Course Enrollment Approval", "Category": "University" },
-    { "Key": "university/course-enrollment", "Name": "Course Enrollment Approval", "Category": "University" } 
+  { "Key": "university/Procurement-Purchase-Request-Approval", "Name": "Procurement Request Approval", "Category": "University" },
+ 
 ]
