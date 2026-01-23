@@ -1,4 +1,3 @@
-# Project Name
 
 This repository contains the source code for a general-purpose software project.
 
@@ -10,6 +9,3 @@ Feel free to explore the code, suggest improvements, or contribute.
 
 ## Status
 - In progress
-
-## License
-This project is open-source and available under the MIT License.
