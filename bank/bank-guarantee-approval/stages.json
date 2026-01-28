@@ -1,0 +1,51 @@
+[
+  {
+    "stageName": "Customer Request",
+    "description": "Customer submits bank guarantee request",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "trade-officer"
+  },
+  {
+    "stageName": "Credit Assessment",
+    "description": "Evaluate creditworthiness and limit",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "credit-analyst"
+  },
+  {
+    "stageName": "Collateral Verification",
+    "description": "Verify collateral if required",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "collateral-team"
+  },
+  {
+    "stageName": "Legal Review",
+    "description": "Legal department reviews guarantee terms",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "legal-dept"
+  },
+  {
+    "stageName": "Branch Manager Approval",
+    "description": "Branch manager approval",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "branch-manager"
+  },
+  {
+    "stageName": "Head Office Approval",
+    "description": "HO approval for guarantee issuance",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "head-office"
+  },
+  {
+    "stageName": "Guarantee Issuance",
+    "description": "Guarantee issued to customer",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "operations"
+  }
+]

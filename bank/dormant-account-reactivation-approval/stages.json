@@ -1,0 +1,23 @@
+[
+  {
+    "stageName": "Customer Service Verification",
+    "description": "Verify customer identity and documents",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "customer-service"
+  },
+  {
+    "stageName": "Compliance Review",
+    "description": "Check AML, KYC, and account history",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "compliance"
+  },
+  {
+    "stageName": "Branch Manager Approval",
+    "description": "Approve reactivation of dormant account",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "branch-manager"
+  }
+]

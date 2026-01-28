@@ -1,0 +1,51 @@
+[
+  {
+    "stageName": "Customer Application",
+    "description": "Customer submits term deposit application",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "customer-service"
+  },
+  {
+    "stageName": "Account Verification",
+    "description": "Verify customer account and identity",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "operations"
+  },
+  {
+    "stageName": "AML / Compliance Check",
+    "description": "Perform AML and sanctions checks",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "compliance"
+  },
+  {
+    "stageName": "Risk Assessment",
+    "description": "Assess risk exposure",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "risk-management"
+  },
+  {
+    "stageName": "Branch Manager Approval",
+    "description": "Approve term deposit",
+    "sequenceOrder": 5,
+    "assignmentType": "Role",
+    "assignmentKey": "branch-manager"
+  },
+  {
+    "stageName": "Head Office Confirmation",
+    "description": "Confirm large deposits at HO level",
+    "sequenceOrder": 6,
+    "assignmentType": "Role",
+    "assignmentKey": "head-office"
+  },
+  {
+    "stageName": "Deposit Execution",
+    "description": "Create term deposit in core banking system",
+    "sequenceOrder": 7,
+    "assignmentType": "Role",
+    "assignmentKey": "operations"
+  }
+]

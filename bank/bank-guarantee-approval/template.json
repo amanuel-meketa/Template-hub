@@ -1,0 +1,5 @@
+{
+  "name": "Bank Guarantee Approval",
+  "description": "Approval workflow for issuing bank guarantees",
+  "isActive": true
+}
