@@ -1,5 +1,17 @@
-[ { "Key": "health/patient-admission", "Name": "Patient Admission Approval", "Category": "Health" },
+[ 
+  { "Key": "health/patient-admission", "Name": "Patient Admission Approval", "Category": "Health" },
+  
   { "Key": "bank/loan-application", "Name": "Loan Application Approval", "Category": "Bank" }, 
+   { "Key": "bank/Bank Guarantee Approvaln", "Name": "Bank Guarantee Approval", "Category": "Bank" }, 
+   { "Key": "bank/loan-application", "Name": "Loan Application Approval", "Category": "Bank" }, 
+   { "Key": "bank/loan-application", "Name": "Loan Application Approval", "Category": "Bank" }, 
+   { "Key": "bank/loan-application", "Name": "Loan Application Approval", "Category": "Bank" }, 
+   { "Key": "bank/loan-application", "Name": "Loan Application Approval", "Category": "Bank" }, 
+  
   { "Key": "Universities/Procurement-Purchase-Request-Approval", "Name": "Procurement Request", "Category": "University" },
-   { "Key": "Universities/research-grant-approval", "Name": "research grant approval", "Category": "University" }
+  { "Key": "Universities/research-grant-approval", "Name": "research grant approval", "Category": "University" },
+  { "Key": "Universities/staff-leave-approval", "Name": "staff leave approval", "Category": "University" },
+  { "Key": "Universities/student-Internship-practical-training-approval", "Name": "student Internship practical training", "Category": "University" },
+  { "Key": "Universities/student-admission-approval", "Name": "student admission approval", "Category": "University" },
+  { "Key": "Universities/student-exchange -study-abroad-approval", "Name": "student exchange study abroad", "Category": "University" }
 ]
