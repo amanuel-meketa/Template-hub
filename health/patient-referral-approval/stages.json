@@ -1,0 +1,23 @@
+[
+  {
+    "stageName": "Referring Doctor Review",
+    "description": "Doctor evaluates and initiates referral",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "doctor"
+  },
+  {
+    "stageName": "Receiving Hospital Confirmation",
+    "description": "Receiving hospital confirms availability",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "referral-office"
+  },
+  {
+    "stageName": "Medical Director Approval",
+    "description": "Medical director authorizes referral",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "medical-director"
+  }
+]

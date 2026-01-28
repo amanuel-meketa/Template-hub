@@ -1,0 +1,5 @@
+{
+  "name": "Patient Admission Approval",
+  "description": "Approval workflow for admitting a patient into the hospital",
+  "isActive": true
+}

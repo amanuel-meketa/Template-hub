@@ -1,0 +1,5 @@
+{
+  "name": "Patient Referral Approval",
+  "description": "Approval workflow for referring patients to higher-level hospitals",
+  "isActive": true
+}

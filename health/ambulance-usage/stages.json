@@ -1,0 +1,23 @@
+[
+  {
+    "stageName": "Requesting Unit Review",
+    "description": "Unit requests ambulance service",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "unit-head"
+  },
+  {
+    "stageName": "Transport Office Approval",
+    "description": "Transport office schedules ambulance",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "transport"
+  },
+  {
+    "stageName": "Administration Approval",
+    "description": "Administration approves usage",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "admin"
+  }
+]

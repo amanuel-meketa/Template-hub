@@ -1,0 +1,5 @@
+{
+  "name": "Ambulance Usage Approval",
+  "description": "Approval workflow for ambulance usage and fuel requests",
+  "isActive": true
+}

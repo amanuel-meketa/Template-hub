@@ -1,0 +1,30 @@
+[
+  {
+    "stageName": "Store Request",
+    "description": "Department requests drugs or supplies from store",
+    "sequenceOrder": 1,
+    "assignmentType": "Role",
+    "assignmentKey": "storekeeper"
+  },
+  {
+    "stageName": "Pharmacy Review",
+    "description": "Pharmacy checks availability and usage",
+    "sequenceOrder": 2,
+    "assignmentType": "Role",
+    "assignmentKey": "pharmacist"
+  },
+  {
+    "stageName": "Finance Verification",
+    "description": "Finance verifies cost and budget",
+    "sequenceOrder": 3,
+    "assignmentType": "Role",
+    "assignmentKey": "finance"
+  },
+  {
+    "stageName": "Hospital Administration Approval",
+    "description": "Final approval from administration",
+    "sequenceOrder": 4,
+    "assignmentType": "Role",
+    "assignmentKey": "admin"
+  }
+]

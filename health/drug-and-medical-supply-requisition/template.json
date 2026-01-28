@@ -1,0 +1,5 @@
+{
+  "name": "Drug and Medical Supply Requisition",
+  "description": "Approval workflow for requesting drugs and medical supplies",
+  "isActive": true
+}
