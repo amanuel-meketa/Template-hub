@@ -1,8 +1,8 @@
 [
-  { "Key": "real_state/condominium-transfer-approval", "Name": "Condominium Transfer Approval", "Category": "real state" },
-  { "Key": "real_state/construction-permit-approval", "Name": "Construction Permit Approval", "Category": "real state" },
-  { "Key": "real_state/property-purchase-approval", "Name": "Property Purchase Ppproval", "Category": "real state" },
-  { "Key": "real_state/property-sale-approval", "Name": "Property Sale Approval", "Category": "real state" },
+  { "Key": "real_estate/condominium-transfer-approval", "Name": "Condominium Transfer Approval", "Category": "Real state" },
+  { "Key": "real_estate/construction-permit-approval", "Name": "Construction Permit Approval", "Category": "Real state" },
+  { "Key": "real_estate/property-purchase-approval", "Name": "Property Purchase Ppproval", "Category": "Real state" },
+  { "Key": "real_estate/property-sale-approval", "Name": "Property Sale Approval", "Category": "Real state" },
   
   { "Key": "health/patient-admission", "Name": "Patient Admission Approval", "Category": "Health" },
   { "Key": "health/ambulance-usage", "Name": "Ambulance Usage Approval", "Category": "Health" },
@@ -17,10 +17,10 @@
   { "Key": "bank/staff-loan-approval", "Name": "Staff Loan approval", "Category": "Bank" }, 
   { "Key": "bank/dormant-account-reactivation-approval", "Name": "Dormant Account Reactivation Approval", "Category": "Bank" }, 
   
-  { "Key": "universities/procurement-purchase-request-approval", "Name": "Procurement Request", "Category": "University" },
-  { "Key": "universities/research-grant-approval", "Name": "Research Grant Approval", "Category": "University" },
-  { "Key": "universities/staff-leave-approval", "Name": "Staff Leave Approval", "Category": "University" },
-  { "Key": "universities/student-Internship-practical-training-approval", "Name": "Student Internship Practical Training", "Category": "University" },
-  { "Key": "universities/student-admission-approval", "Name": "Student Admission Approval", "Category": "University" },
-  { "Key": "universities/student-exchange-study-abroad-approval", "Name": "Student Exchange Study Abroad", "Category": "University" }
+  { "Key": "Universities/procurement-purchase-request-approval", "Name": "Procurement Request", "Category": "University" },
+  { "Key": "Universities/research-grant-approval", "Name": "Research Grant Approval", "Category": "University" },
+  { "Key": "Universities/staff-leave-approval", "Name": "Staff Leave Approval", "Category": "University" },
+  { "Key": "Universities/student-Internship-practical-training-approval", "Name": "Student Internship Practical Training", "Category": "University" },
+  { "Key": "Universities/student-admission-approval", "Name": "Student Admission Approval", "Category": "University" },
+  { "Key": "Universities/student-exchange-study-abroad-approval", "Name": "Student Exchange Study Abroad", "Category": "University" }
 ]
