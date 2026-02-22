@@ -1,4 +1,6 @@
-[ 
+[
+  { "Key": "real state/condominium-transfer-approval", "Name": "Condominium Transfer Approval", "Category": "real state" },
+  
   { "Key": "health/patient-admission", "Name": "Patient Admission Approval", "Category": "Health" },
   { "Key": "health/ambulance-usage", "Name": "Ambulance Usage Approval", "Category": "Health" },
   { "Key": "health/drug-and-medical-supply-requisition", "Name": "Drug and Medica Supply Requisition", "Category": "Health" },
