@@ -1,5 +1,8 @@
 [
-  { "Key": "real state/condominium-transfer-approval", "Name": "Condominium Transfer Approval", "Category": "real state" },
+  { "Key": "real_state/condominium-transfer-approval", "Name": "Condominium Transfer Approval", "Category": "real state" },
+  { "Key": "real_state/construction-permit-approval", "Name": "Construction Permit Approval", "Category": "real state" },
+  { "Key": "real_state/property-purchase-approval", "Name": "Property Purchase Ppproval", "Category": "real state" },
+  { "Key": "real_state/property-sale-approval", "Name": "Property Sale Approval", "Category": "real state" },
   
   { "Key": "health/patient-admission", "Name": "Patient Admission Approval", "Category": "Health" },
   { "Key": "health/ambulance-usage", "Name": "Ambulance Usage Approval", "Category": "Health" },
